@@ -31,7 +31,7 @@
 	];
 
 	const instagramImages = [
-		'https://images.unsplash.com/photo-1559496417-e7f25c2f87c3?w=800&q=80',
+		'https://images.unsplash.com/photo-1500512296-fcd1ce147878?w=800&q=80',
 		'https://images.unsplash.com/photo-1514066558159-fc8c737ef259?w=800&q=80',
 		'https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&q=80',
 		'https://images.unsplash.com/photo-1511920170033-f8396924c348?w=800&q=80',
